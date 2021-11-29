@@ -7,6 +7,8 @@ Generating required Ideology apparel for roles takes a lot of time on large modl
 
 This mod bypasses that by simply disabling automatic apparel generation for these roles.
 
+Please note that if you do not suffer from performance issues on ideology editing there is absolutely no reason to install this.
+
 ## Requirements
 
 Requires **Harmony** and obviously the Ideology DLC
